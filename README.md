@@ -3,6 +3,9 @@
 Weekly deep-dives into high-quality repos and AI/agent topics — learning in public.
 
 笔记以中文为主，每周一篇：读 README → 跑通 demo → 画调用链 → 沉淀成笔记。
+另有一个进行中的 [12 周 AI 系统学习计划](notes/ai-system-12-weeks/)（机器学习基础 → 深度学习 → 经典模型，体系化学习笔记持续更新）。
+
+仓库内容采用 [CC BY-SA 4.0](LICENSE) 协议发布。
 
 ## Notes
 
