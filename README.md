@@ -10,6 +10,14 @@ Weekly deep-dives into high-quality repos and AI/agent topics — learning in pu
 |---|---|---|
 | 2026-W40 | karpathy/nanoGPT 精读 | [notes/2026-09-nanogpt-deep-dive.md](notes/2026-09-nanogpt-deep-dive.md) |
 
+## Articles
+
+公众号「Wenyan的呜哇」文章归档——每周精读一篇 AI agent 方向论文。
+
+| 日期 | 文章 |
+|---|---|
+| 2026-09 | [Agent 的"决定"，有 20.4% 在执行时悄悄变了样（confidence routing 论文精读）](articles/2026-09-confidence-routing-drift.md) |
+
 ## Method
 
 每篇精读走同一条流水线：
