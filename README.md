@@ -9,6 +9,7 @@ Weekly deep-dives into high-quality repos and AI/agent topics — learning in pu
 | 周 | 主题 | 笔记 |
 |---|---|---|
 | 2026-W40 | karpathy/nanoGPT 精读 | [notes/2026-09-nanogpt-deep-dive.md](notes/2026-09-nanogpt-deep-dive.md) |
+| 进行中 | AI 系统学习笔记（12 周计划，第 1–39 天） | [notes/ai-system-12-weeks/](notes/ai-system-12-weeks/) |
 
 ## Articles
 
