@@ -54,4 +54,4 @@
 - [ ] **代码**：最小 MLP 训练循环（含 zero_grad、logits 不接 softmax）
 - [ ] **代码**：AdamW + warmup + cosine + 梯度裁剪 + AMP 的完整配方
 - [ ] **代码**：Bottleneck 残差块与深度可分离卷积的手写实现
-- [ ] **面试**：反向传播 vs 优化算法的区别；weight decay ≠ L2（Adam 下）；BN 推理用滑动平均；Post-Norm vs Pre-Norm；算术强度与 FLOPs 失真；蒸馏 T² 的原因
+- [ ] **自查**：反向传播 vs 优化算法的区别；weight decay ≠ L2（Adam 下）；BN 推理用滑动平均；Post-Norm vs Pre-Norm；算术强度与 FLOPs 失真；蒸馏 T² 的原因
