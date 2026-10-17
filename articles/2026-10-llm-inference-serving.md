@@ -1,4 +1,4 @@
-# 大模型推理引擎演进:从持续批处理到以缓存为中心的调度
+# 大模型推理引擎演进：从持续批处理到以缓存为中心的调度
 
 > 原发于微信公众号「Wenyan的呜哇」,2026-10-17
 > 系列上一篇:[《大模型为什么一个字一个字地"蹦"?四篇论文讲清推理加速》](https://github.com/Wenyan0315/learning-notes/blob/main/articles/2026-10-llm-inference-optimization.md)
