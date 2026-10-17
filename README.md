@@ -21,6 +21,7 @@ Weekly deep-dives into high-quality repos and AI/agent topics — learning in pu
 
 | 日期 | 文章 |
 |---|---|
+| 2026-10-17 | [一千个人同时提问，大模型是怎么扛住的？](articles/2026-10-llm-inference-serving.md) |
 | 2026-10-10 | [大模型为什么一个字一个字地"蹦"？四篇论文讲清推理加速](articles/2026-10-llm-inference-optimization.md) |
 | 2026-10-02 | [生成归生成，判断归判断：不是范式革命，是判断层的回归与校准升级](articles/2026-10-decision-model-jev.md) |
 | 2026-09-25 | [vLLM：用分页思想管好 KV Cache，推理吞吐提升 2–4 倍](articles/2026-09-vllm-pagedattention.md) |
