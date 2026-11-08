@@ -17,11 +17,16 @@ Weekly deep-dives into high-quality repos and AI/agent topics — learning in pu
 
 ## Articles
 
-公众号「Wenyan的呜哇」文章归档——每周精读一篇 AI agent 方向论文。
+公众号「Wenyan的呜哇」文章归档——AI agent 论文精读与 AI 系统主题长文。
 
 | 日期 | 文章 |
 |---|---|
+| 2026-11-08 | [从算力到带宽：斯坦福 CS336 第 5–6 讲精读](articles/2026-11-cs336-lecture-5-6.md) |
+| 2026-10-31 | [从 RoPE 到 MoE：斯坦福 CS336 第 3–4 讲精读](articles/2026-10-cs336-lecture-3-4.md) |
+| 2026-10-26 | [从 Token 到 FLOPs：斯坦福 CS336 前两讲精读](articles/2026-10-cs336-lecture-1-2.md) |
+| 2026-10-20 | [DeepSeek 开源 DeepInfer：推理提速，为什么要从模型设计开始？](articles/2026-10-deepinfer-inference.md) |
 | 2026-10-17 | [一千个人同时提问，大模型是怎么扛住的？](articles/2026-10-llm-inference-serving.md) |
+| 2026-10-11 | [本地复刻一个 Jev：把开源大模型变成极速决策引擎（无需重新训练）](articles/2026-10-jev-local-replica.md) |
 | 2026-10-10 | [大模型为什么一个字一个字地"蹦"？四篇论文讲清推理加速](articles/2026-10-llm-inference-optimization.md) |
 | 2026-10-02 | [生成归生成，判断归判断：不是范式革命，是判断层的回归与校准升级](articles/2026-10-decision-model-jev.md) |
 | 2026-09-25 | [vLLM：用分页思想管好 KV Cache，推理吞吐提升 2–4 倍](articles/2026-09-vllm-pagedattention.md) |
