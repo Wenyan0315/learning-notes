@@ -21,6 +21,8 @@ Weekly deep-dives into high-quality repos and AI/agent topics — learning in pu
 
 | 日期 | 文章 |
 |---|---|
+| 2026-11-22 | [从幂律到算力最优：斯坦福 CS336 第 9、11 讲精读](articles/2026-11-cs336-lecture-9-11.md) |
+| 2026-11-15 | [从一张卡到一个集群｜斯坦福 CS336 第 7–8 讲精读](articles/2026-11-cs336-lecture-7-8.md) |
 | 2026-11-08 | [从算力到带宽：斯坦福 CS336 第 5–6 讲精读](articles/2026-11-cs336-lecture-5-6.md) |
 | 2026-10-31 | [从 RoPE 到 MoE：斯坦福 CS336 第 3–4 讲精读](articles/2026-10-cs336-lecture-3-4.md) |
 | 2026-10-26 | [从 Token 到 FLOPs：斯坦福 CS336 前两讲精读](articles/2026-10-cs336-lecture-1-2.md) |
