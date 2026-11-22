@@ -1,11 +1,22 @@
 # learning-notes
 
-Weekly deep-dives into high-quality repos and AI/agent topics — learning in public.
+公开学习笔记，以中文为主。这里收录斯坦福 CS336 课程精读、12 周 AI 基础笔记，以及开源项目与 Agent 论文精读。
 
-笔记以中文为主，每周一篇：读 README → 跑通 demo → 画调用链 → 沉淀成笔记。
-另有一个进行中的 [12 周 AI 系统学习计划](notes/ai-system-12-weeks/)（机器学习基础 → 深度学习 → 经典模型，体系化学习笔记持续更新）。
+想从机器学习和深度学习基础开始，可以沿着 [12 周 AI 系统学习计划](notes/ai-system-12-weeks/) 阅读，每章配有推导、代码和自测要点。
 
 仓库内容采用 [CC BY-SA 4.0](LICENSE) 协议发布。
+
+## Stanford CS336 精读
+
+按讲次阅读，从语言模型的计算量估算一路到分布式训练和缩放律。
+
+| 讲次 | 阅读入口 |
+|---|---|
+| 第 1–2 讲 | [从 Token 到 FLOPs](articles/2026-10-cs336-lecture-1-2.md) |
+| 第 3–4 讲 | [从 RoPE 到 MoE](articles/2026-10-cs336-lecture-3-4.md) |
+| 第 5–6 讲 | [从算力到带宽](articles/2026-11-cs336-lecture-5-6.md) |
+| 第 7–8 讲 | [从一张卡到一个集群](articles/2026-11-cs336-lecture-7-8.md) |
+| 第 9、11 讲 | [从幂律到算力最优](articles/2026-11-cs336-lecture-9-11.md) |
 
 ## Notes
 
@@ -13,7 +24,6 @@ Weekly deep-dives into high-quality repos and AI/agent topics — learning in pu
 |---|---|---|
 | 2026-W40 | karpathy/nanoGPT 精读 | [notes/2026-09-nanogpt-deep-dive.md](notes/2026-09-nanogpt-deep-dive.md) |
 | 2026-W41 | 第一个 OSS PR 实战：smolagents `@` 运算符修复（issue → 认领 → PR 全流程） | [notes/2026-10-first-oss-pr-smolagents.md](notes/2026-10-first-oss-pr-smolagents.md) |
-| 进行中 | AI 系统学习笔记（12 周计划，第 1–39 天） | [notes/ai-system-12-weeks/](notes/ai-system-12-weeks/) |
 
 ## Articles
 
@@ -42,7 +52,7 @@ Weekly deep-dives into high-quality repos and AI/agent topics — learning in pu
 
 ## Method
 
-每篇精读走同一条流水线：
+开源项目精读按下面的步骤进行：
 
 1. **读 README 和 issue 区** — 搞清楚它解决什么问题、设计哲学是什么
 2. **跑通 quickstart** — 跑不起来的项目不值得精读
